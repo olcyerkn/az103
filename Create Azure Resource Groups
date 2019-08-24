@@ -1,0 +1,1 @@
+new-azresourcegroup -name "rgname" -location "West Europe"

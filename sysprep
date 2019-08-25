@@ -1,0 +1,7 @@
+#sysprep commands
+
+cd\
+cd\ windows
+cd\system32
+cd\sysprep
+.\sysprep.exe /oobe /generalize /shutdown

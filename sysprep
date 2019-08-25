@@ -1,5 +1,9 @@
 #sysprep commands
 
+Vm i hazırladıktan sonra Powershell veya komut satırından yapıyoruz
+sysprep ile generalize edip, ardından capture alınır. Best practice makine kapalı iken alınması
+
+
 cd\
 cd\ windows
 cd\system32

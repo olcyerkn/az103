@@ -7,3 +7,4 @@ Az lock create --name prodNotDelete --lock-type ReadOnly --resource-group mac-pr
 #Remove Azure Lock
 $lockId = (Get-AzureRMResourceLock -ResourceGroupName mac-prod-rg).LockId
 Remove-AzureRMResourceLock -LockId $lockId
+## last ##

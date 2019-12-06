@@ -5,3 +5,4 @@ Get-ScriptAnalyzerRule
 Get-EtwTraceSession
 Get-AIPFileStatus
 Get-AppPackage
+Find-NetIPsecRule

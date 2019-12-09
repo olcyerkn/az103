@@ -25,3 +25,4 @@ docker stop redis1
 docker ps -a
 docker rm redis1
 docker image rm redis
+sfdewr
